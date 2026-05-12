@@ -1,5 +1,5 @@
 RBE/CS 549 Computer Vision - Project 3: Einstein Vision: A Monocular Perception and 3D Scene Reconstruction Pipeline for Autonomous Driving Visualization
-Author: Prahladh Raja (pnamboorkrishnam@wpi.edu), Filippo Marcantoni (fmarcantoni@wpi.edu) (Group 10)
+Author: Filippo Marcantoni (fmarcantoni@wpi.edu), Prahladh Raja (pnamboorkrishnam@wpi.edu) (Group 10)
 Course: RBE/CS 549 - Computer Vision (Prof. Nitin Sanket)
 Institution: Worcester Polytechnic Institute
 
